@@ -2,6 +2,7 @@
 
 _[Portfolio Website](https://khusanov-m-r.netlify.app/)_ - Designed and Built by Mukhammad Khojiakbar Khusanov
 
+- Responsive Design
 - Designed as a Portfolio container website
 - Include swiper js library
 - Implemented iconic fonts (Font Awesome)
